@@ -4115,11 +4115,12 @@ html.no-csstransitions .s-hero__content {
 }
 
 .s-about__photo {
-  background-image: url(../images/about-photo.jpeg);
+  background-image: url(../images/about.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   position: absolute;
+  border-radius: 16px;
   top: var(--vspace-0_5);
   right: var(--gutter-lg);
   left: var(--gutter-lg);
